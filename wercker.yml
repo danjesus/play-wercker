@@ -2,5 +2,5 @@ box: wercker/default
 build:
   steps:
    -  script:
-    name: Learn Wercker
-    code: phpunit --configuration phpunit.xml
+      name: Learn Wercker
+      code: phpunit --configuration phpunit.xml
