@@ -1,0 +1,15 @@
+{
+    "name": "play/wercker",
+    "description": "Playing with Wercker",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "Dan Jesus",
+            "email": "danper.jesus@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "nategood/httpful": "*",
+        "phpunit/phpunit": "3.8.*"
+    }
+}
