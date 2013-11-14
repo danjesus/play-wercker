@@ -1,6 +1,6 @@
 box: wercker/php
 build:
   steps:
-    -script:
-      name: Learn Wercker
-      code: phpunit --configuration phpunit.xml
+    - script:
+        name: Learn Wercker
+        code: phpunit --configuration phpunit.xml
