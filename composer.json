@@ -8,8 +8,11 @@
             "email": "danper.jesus@gmail.com"
         }
     ],
+    "require": {
+        "respect/rest": "*"
+    },
     "require-dev": {
         "nategood/httpful": "*",
-        "phpunit/phpunit": "3.8.*"
+        "phpunit/phpunit": "*"
     }
 }
